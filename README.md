@@ -4,3 +4,6 @@ Online jamming and audio streaming client for desktop.
 ---
 
 This repository contains experimental public builds of the software. At this stage these are meant for experimentation and testing.
+
+![screenshot_main](images/screenshot_main.png)
+
