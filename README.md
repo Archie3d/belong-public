@@ -7,3 +7,6 @@ This repository contains experimental public builds of the software. At this sta
 
 ![screenshot_main](images/screenshot_main.png)
 
+- [Installers for Windows and MacOS can be downloaded here](https://github.com/Archie3d/belong-public/releases).
+
+> Binaries are not signed or notarised, so you may need to clear the quarantine flag manually.
